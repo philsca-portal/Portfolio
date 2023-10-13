@@ -1,13 +1,18 @@
 .nav-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: sticky;
     top: 10px;
-    background-color: rgba(0, 0, 0, 0.5);
-    width: 30%;
-    margin-left: 35%;
-    border-radius: 20px;
-    margin-top: 10px;
     z-index: 5;
 }
+
+.nav-container .nav{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: auto;
+    border-radius: 20px;
+}
+
 .ul-container{
     margin: 0;
     padding: 0;
@@ -34,3 +39,24 @@
     opacity: 1;
     filter: blur(0);
 }
+
+@media (max-width: 768px) {
+    .nav-container .nav {
+      width: 65%; 
+    }
+
+    .ul-container li {
+        list-style: none;
+        text-transform: uppercase;
+        padding: 10px;
+        margin: 5px;
+        transition: all ease-in-out 0.5s;
+    }
+    
+    .ul-container li a{
+        font-family: 'Poppins', sans-serif;
+        text-decoration: none;
+        color: white;
+        font-size: small;
+    }
+  }

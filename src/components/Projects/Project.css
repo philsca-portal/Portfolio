@@ -129,3 +129,132 @@
         transform: translate(0px,155px);
     }
 }
+
+@media (max-width: 768px) {
+    .container4{
+        height: 100vh;
+        overflow: hidden;
+        animation-timing-function: cubic-bezier(0.46,0.03,0.52,0.96);
+        animation-duration: 1.2s;
+        animation-name: skillappear;
+    }
+    
+    @keyframes skillappear {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        } 
+    }
+    
+    .container4 .ghost-div{
+        height: 80px;
+    }
+    
+    .div2 ul .project{
+        font-size:x-large;
+        text-transform: uppercase;
+        background: linear-gradient(90deg,#5EC5D4,#F6F7A9);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    
+    .lamp-container{
+        position: relative;
+        top: -190px;
+        right: -69%;
+        width: 200px;
+        transform: rotate(30deg);
+        z-index: 2;
+    }
+    
+    .lamp{
+        width: 55%;
+        mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1));
+        -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1));
+        animation-timing-function: cubic-bezier(0.46,0.03,0.52,0.96);
+        animation-duration: 1s;
+        animation-name: slidefromtop;
+    }
+    
+    @keyframes slidefromtop {
+        0%{
+            transform: translateY(-40px);
+            opacity: 0;
+        }
+        50%{
+            transform: translateY(0);
+        }
+        75%{
+            transform: translateY(-10px);
+        }
+        100%{
+            transform: translateY(0);
+        }
+    }
+    
+    .light{
+        position: relative;
+        height: 270px;
+        width: 430px;
+        left: -83%;
+        top: -8px;
+        animation-timing-function: cubic-bezier(0.46,0.03,0.52,0.96);
+        animation-duration: 4s;
+        animation-name: appearfromnothing;
+    }
+    
+    @keyframes appearfromnothing {
+        0%{
+            opacity: 0;
+        }
+    
+        85%{
+            opacity: 0.5;
+        }
+        90%{
+            opacity: 1;
+        }
+        95%{
+            opacity: 0;
+        }
+        100%{
+            opacity: 1;
+        }
+    }
+    
+    .coder{
+        height: 500px;
+        position: absolute;
+        left: -280px;
+        transform: translateY(-190px);
+        animation-timing-function: cubic-bezier(0.46,0.03,0.52,0.96);
+        animation-duration: 2.5s;
+        animation-name: slidefrombottom;
+        display: none;
+    }
+    
+    @keyframes slidefrombottom {
+        from{
+            transform: translateY(0);
+            opacity: 0;
+        }
+        to{
+            transform: translateY(-190px);
+        }
+    }
+    
+    .slider{
+        position: absolute;
+        left: 1rem;
+        height: 0px;
+        width: 0px;
+        transform: translate(0px,125px);
+        animation-timing-function: cubic-bezier(0.46,0.03,0.52,0.96);
+        animation-duration: 1.2s;
+        animation-name: slidefromleft;
+        z-index: 10;
+    }
+}

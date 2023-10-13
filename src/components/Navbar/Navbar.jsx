@@ -3,7 +3,8 @@ import './Navbar.css'
 
 const Navbar = () => {
   return (
-      <nav className='nav-container'>
+    <div className='nav-container'>
+      <nav className='nav'>
         <ul className='ul-container'>
           <li><a href='#hero'>Hero</a></li>
           <li><a href='#about'>About</a></li>
@@ -11,6 +12,7 @@ const Navbar = () => {
           <li><a href='#project'>Projects</a></li>
         </ul>
       </nav>
+    </div>
   )
 }
 

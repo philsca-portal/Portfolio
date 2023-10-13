@@ -73,7 +73,7 @@ const About = ({ aboutRef, rocketRef, rocketisVisible }) => {
             </div>
             <div className='paragraph-container'>
               <p>
-                Coding isn't just a skill for me; it's my greatest passion, an art form where I express my creativity and solve the world's challenges through lines of code.
+                "Coding isn't just a skill for me; it's my greatest passion, an art form where I express my creativity and solve the world's challenges through lines of code."
               </p>
             </div>
           </div>
