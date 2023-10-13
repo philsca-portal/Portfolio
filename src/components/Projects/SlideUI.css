@@ -196,11 +196,11 @@
         text-decoration: none;
     }
     
-    .button-container .link1:hover + span{
+    .button-container .link1:hover + .span-incognito{
         display: none;
     }
     
-    .button-container span{
+    .button-container .span-incognito{
         display: none;
     }
     
