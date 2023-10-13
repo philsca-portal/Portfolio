@@ -59,7 +59,7 @@
     cursor: pointer;
 }
 
-.button-container button:hover{
+.button-container button:hover {
     transform: scale(1.1);
     -webkit-transform: scale(1.1);
 }
@@ -78,7 +78,23 @@
     display: flex;
 }
 
-.button-container span{
+.use-incognito{
+    position: absolute;
+    bottom: 10rem;
+    left: 40.5rem;
+    transform: rotate(45deg);
+    height: 60px;
+}
+
+.arrow-incognito{
+    position: absolute;
+    bottom: 9rem;
+    left: 41.5rem;
+    transform: rotate(25deg);
+    height: 60px;
+}
+
+span{
     display: none;
 }
 
@@ -181,7 +197,7 @@
     }
     
     .button-container .link1:hover + span{
-        display: flex;
+        display: none;
     }
     
     .button-container span{

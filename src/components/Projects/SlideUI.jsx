@@ -6,6 +6,7 @@ import incognitoarrow from '../../img/incognito-arrow.gif'
 const SlideUI = ({src, title, techstack, githubLink, demoLink}) => {
 
     return(
+        <>
         <div className="slide-container">
             <div className='slide-content'>
                 <img src={src} className='background' alt='Background img' />
@@ -24,6 +25,7 @@ const SlideUI = ({src, title, techstack, githubLink, demoLink}) => {
                 </div>
             </div>
         </div>
+        </>
     )
 }
 
