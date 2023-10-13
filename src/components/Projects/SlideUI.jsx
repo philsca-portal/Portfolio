@@ -15,7 +15,7 @@ const SlideUI = ({src, title, techstack, githubLink, demoLink}) => {
                 <div className='button-container'>
                     <button className='link'><a href={githubLink} target="_blank">Github</a></button>
                     <button className='link1'><a href={demoLink} target="_blank">Live Demo</a></button>
-                    <span>
+                    <span className='span-incognito'>
                         <div>
                             <img src={useincognito} alt='Use-incognito Img' className='use-incognito' />
                             <img src={incognitoarrow} alt='Arrow-incognito Img' className='arrow-incognito' />

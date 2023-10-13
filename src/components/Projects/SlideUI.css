@@ -74,7 +74,7 @@
     text-decoration: none;
 }
 
-.button-container .link1:hover + span{
+.button-container .link1:hover + .span-incognito{
     display: flex;
 }
 
@@ -94,7 +94,7 @@
     height: 60px;
 }
 
-span{
+.span-incognito{
     display: none;
 }
 
