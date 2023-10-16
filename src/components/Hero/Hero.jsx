@@ -42,7 +42,7 @@ const Hero = ({ heroRef }) => {
           <p>"Constantly seeking new challenges and opportunities to hone my skills and expand my knowledge in the ever-evolving world of technology."</p>
         </div>
         <div className='button'>
-          <button className='download-button'><p><a href={myResume} download="Resume- TABAJONDA,BRYAN R.">Download my Resume</a></p></button>
+          <button className='download-button'><p><a href={myResume} download="TABAJONDA,BRYAN R.">Download my Resume</a></p></button>
           <button className='contact-button' onClick={toggleModal}><p>Contact Me</p>
           </button>
         </div>
