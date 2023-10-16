@@ -14,7 +14,7 @@ import firebaseImage from '../../img/firebase.png';
 import javaImage from '../../img/java.jpg';
 import apiImage from '../../img/api.png';
 import blobImage from '../../img/blob.png';
-import myResume from '../../file/RESUME.pdf';
+import myResume from '../../file/BRYAN-REVILLA-TABAJONDA.pdf';
 
 const Hero = ({ heroRef }) => {
 
