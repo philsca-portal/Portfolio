@@ -36,12 +36,19 @@ const Carousel = () => {
                 "demolink": "https://delivery-service-web.000webhostapp.com/"
             },
             {
+                "src": "https://gdurl.com/r-SG/",
+                "title": "WeatherAPI.com + Next.js: Your Ultimate Weather Resource",
+                "techstack": "Next.js (TypeScript), Weather API",
+                "githublink": "https://github.com/philsca-portal/Weather-web.git",
+                "demolink": "https://weather-web-rho.vercel.app"
+            },
+            {
                 "src": "https://gdurl.com/iqYY/",
                 "title": "Basic CRUD application built with Next.js with Authentication.",
                 "techstack": "Next.js (TypeScript), MySQL(PlanetScale), Shadcn UI, and Clerk(Authentication).",
                 "githublink": "https://github.com/philsca-portal/next13-CRUD.git",
                 "demolink": "https://next13-crud.vercel.app/"
-            }         
+            }        
         ]
     }
 
@@ -60,7 +67,7 @@ const Carousel = () => {
             <SlArrowLeft className="arrow arrow-left" onClick={() => prevSlide()}/>
             {Projects.slides.map((item,key) => {
                 return (
-                    <div key={key} className={slide === key? '' : 'slide-hidden'}>                   
+                    <div key={key} className={slide === key ? '' : 'slide-hidden'}>                   
                         <SlideUI src={item.src} 
                                 title={item.title} 
                                 techstack={item.techstack}
