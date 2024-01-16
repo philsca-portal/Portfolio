@@ -9,7 +9,7 @@ const SlideUI = ({src, title, techstack, githubLink, demoLink}) => {
         <>
         <div className="slide-container">
             <div className='slide-content'>
-                <img src={src} className='background' alt='Background img' />
+                <img src={src} className='background' />
                 <h3>{title}</h3>
                 <h5>Techstack: {techstack}</h5>
                 <div className='button-container'>
