@@ -8,42 +8,42 @@ const Carousel = () => {
     const Projects = {
         "slides": [
             {
-                "src": "https://gdurl.com/Wrg7/",
+                "src": "https://gdurl.com/Wrg7",
                 "title": "Admin Website of Ekolekta android application (PHP)",
                 "techstack": "PHP, mySQL, Firebase, HTML, CSS, and JavaScript",
                 "githublink": "https://github.com/philsca-portal/E-KOLEKTA.git",
                 "demolink": "https://e-kolekta.000webhostapp.com/"
             },
             {
-                "src": "https://gdurl.com/HyqC/",
+                "src": "https://gdurl.com/HyqC",
                 "title": "Android Application For Waste Management for The Aviation Community in Barangay 183 Villamor, Pasay City",
                 "techstack": "Java, mySQL, Firebase, XML, Tensorflow, Google Teachable Machine",
                 "githublink": "https://github.com/philsca-portal/E-KOLEKTA-APP.git",
                 "demolink": ""
             },
             {
-                "src": "https://gdurl.com/KlCFU/",
+                "src": "https://gdurl.com/KlCFU",
                 "title": "JJRGB Delivery Services is an information management and booking system for JJRGB Delivery Services with consumer and administrative perspective",
                 "techstack": "PHP, mySQL, HTML, CSS, and JavaScript",
                 "githublink": "https://github.com/philsca-portal/Delivery-service-web.git",
                 "demolink": "https://delivery-service-web.000webhostapp.com/"
             },
             {
-                "src": "https://gdurl.com/v791/",
+                "src": "https://gdurl.com/v791",
                 "title": "Admin Website of JJRGB Delivery Services",
                 "techstack": "PHP, mySQL, HTML, CSS, and JavaScript",
                 "githublink": "https://github.com/philsca-portal/Delivery-service-web.git",
                 "demolink": "https://delivery-service-web.000webhostapp.com/"
             },
             {
-                "src": "https://gdurl.com/r-SG/",
+                "src": "https://gdurl.com/r-SG",
                 "title": "WeatherAPI.com + Next.js: Your Ultimate Weather Resource",
                 "techstack": "Next.js (TypeScript), Weather API",
                 "githublink": "https://github.com/philsca-portal/Weather-web.git",
                 "demolink": "https://weather-web-seven-hazel.vercel.app"
             },
             {
-                "src": "https://gdurl.com/iqYY/",
+                "src": "https://gdurl.com/iqYY",
                 "title": "Basic CRUD application built with Next.js with Authentication.",
                 "techstack": "Next.js (TypeScript), MySQL(PlanetScale), Shadcn UI, and Clerk(Authentication).",
                 "githublink": "https://github.com/philsca-portal/next13-CRUD.git",
