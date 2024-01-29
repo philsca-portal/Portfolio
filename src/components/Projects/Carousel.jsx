@@ -8,28 +8,28 @@ const Carousel = () => {
     const Projects = {
         "slides": [
             {
-                "src": "https://gdurl.com/Wrg7",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTCEy30JoBevhEC35ZwKPHDU7aHsLaThQXY1f7c7UpMcYyg7lgsxSEATVqEkwSDy0DZFhMfxymp30f1MYmIBHQfJbr_iA=s1600",
                 "title": "Admin Website of Ekolekta android application (PHP)",
                 "techstack": "PHP, mySQL, Firebase, HTML, CSS, and JavaScript",
                 "githublink": "https://github.com/philsca-portal/E-KOLEKTA.git",
                 "demolink": "https://e-kolekta.000webhostapp.com/"
             },
             {
-                "src": "https://gdurl.com/HyqC",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTeaZA31upNMsTf49JpQG94pxF-Ovm9teynBIT47k1sNmv6XQDzNexb1pNw84rV7QneYZNBqndRMCc-qB7_ksDeDTKaeg=s1600",
                 "title": "Android Application For Waste Management for The Aviation Community in Barangay 183 Villamor, Pasay City",
                 "techstack": "Java, mySQL, Firebase, XML, Tensorflow, Google Teachable Machine",
                 "githublink": "https://github.com/philsca-portal/E-KOLEKTA-APP.git",
                 "demolink": ""
             },
             {
-                "src": "https://gdurl.com/KlCFU",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTNlnvNSUqBjnaRqY2Q53U1Yac2mWuQiMOqAw-7Q9QrYVqh4ayCX4dmbA7wn8s7O_p8geJjz6QjMubgMfz3ZZyXYg9o8A=s1600",
                 "title": "JJRGB Delivery Services is an information management and booking system for JJRGB Delivery Services with consumer and administrative perspective",
                 "techstack": "PHP, mySQL, HTML, CSS, and JavaScript",
                 "githublink": "https://github.com/philsca-portal/Delivery-service-web.git",
                 "demolink": "https://delivery-service-web.000webhostapp.com/"
             },
             {
-                "src": "https://gdurl.com/v791",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRmAW7Bin1TajUEjL5atFbjd45AZ9lL2h4dhrT-V37K5IZS0WEzgZxVm73YDgiwoIn2rMP5uPPoL04pXeTxcQRNFjpBBQ=s1600",
                 "title": "Admin Website of JJRGB Delivery Services",
                 "techstack": "PHP, mySQL, HTML, CSS, and JavaScript",
                 "githublink": "https://github.com/philsca-portal/Delivery-service-web.git",
@@ -43,7 +43,7 @@ const Carousel = () => {
                 "demolink": "https://weather-web-seven-hazel.vercel.app"
             },
             {
-                "src": "https://gdurl.com/iqYY",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQaCLSsMP13x5X0QWDWk6T5G10jheOVQHLbBupOB5n1zAIcfH6B4o7kk2P7zYr_VzndWFoib6Daha_nHZIRa_KdgCVN=s1600",
                 "title": "Basic CRUD application built with Next.js with Authentication.",
                 "techstack": "Next.js (TypeScript), MySQL(PlanetScale), Shadcn UI, and Clerk(Authentication).",
                 "githublink": "https://github.com/philsca-portal/next13-CRUD.git",
