@@ -36,7 +36,7 @@ const Carousel = () => {
                 "demolink": "https://delivery-service-web.000webhostapp.com/"
             },
             {
-                "src": "https://gdurl.com/r-SG",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSLLn3BJKChAL0olE5pOmNrFQSTrOVY9g7cGA70Rn3gfjrr4z6F1VA3qV1c4yNC6TX0vj1UNjk_gzCSMo_DT2Yk62pg=s1600",
                 "title": "WeatherAPI.com + Next.js: Your Ultimate Weather Resource",
                 "techstack": "Next.js (TypeScript), Weather API",
                 "githublink": "https://github.com/philsca-portal/Weather-web.git",
