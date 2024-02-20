@@ -48,7 +48,14 @@ const Carousel = () => {
                 "techstack": "Next.js (TypeScript), MySQL(PlanetScale), Shadcn UI, and Clerk(Authentication).",
                 "githublink": "https://github.com/philsca-portal/next13-CRUD.git",
                 "demolink": "https://next13-crud.vercel.app/"
-            }        
+            },
+            {
+                "src": "https://gdurl.com/KuaB",
+                "title": "Inspired landing page for Server Hunter.",
+                "techstack": "Next.js , Tailwind css, Spline, Shadcn UI.",
+                "githublink": "https://github.com/philsca-portal/server-hunter.git",
+                "demolink": "https://server-hunter.vercel.app/"
+            }         
         ]
     }
 
