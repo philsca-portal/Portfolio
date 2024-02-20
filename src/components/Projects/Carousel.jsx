@@ -50,7 +50,7 @@ const Carousel = () => {
                 "demolink": "https://next13-crud.vercel.app/"
             },
             {
-                "src": "https://gdurl.com/KuaB",
+                "src": "https://lh3.googleusercontent.com/d/1zJ1ocDBnmhlQC0VAT-wSnNOs6cSvfa_F",
                 "title": "Inspired landing page for Server Hunter.",
                 "techstack": "Next.js , Tailwind css, Spline, Shadcn UI.",
                 "githublink": "https://github.com/philsca-portal/server-hunter.git",
