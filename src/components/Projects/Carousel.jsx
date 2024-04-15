@@ -8,21 +8,21 @@ const Carousel = () => {
     const Projects = {
         "slides": [
             {
-                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTCEy30JoBevhEC35ZwKPHDU7aHsLaThQXY1f7c7UpMcYyg7lgsxSEATVqEkwSDy0DZFhMfxymp30f1MYmIBHQfJbr_iA=s1600",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZxMqSGpTq3licmdYLcFE6QmJJmDl9sdYmynZ6t6mIEigcwkXt5sHdsu7GS19kaVT-NxUAG-lk2muBpO5Y1fmv4Tr_J0a8Rcjg=s1600-v00",
                 "title": "Admin Website of Ekolekta android application (PHP)",
                 "techstack": "PHP, mySQL, Firebase, HTML, CSS, and JavaScript",
                 "githublink": "https://github.com/philsca-portal/E-KOLEKTA.git",
                 "demolink": "https://e-kolekta.000webhostapp.com/"
             },
             {
-                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTeaZA31upNMsTf49JpQG94pxF-Ovm9teynBIT47k1sNmv6XQDzNexb1pNw84rV7QneYZNBqndRMCc-qB7_ksDeDTKaeg=s1600",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ-__it6NqAw3W4AE-0KHoQoSnNil-XfTi-XMeT8_uuWHRtJpvN7r5DO-GW48InEVTDM2UNYtYTKkKptuJ5SdKfpUpc5EwEKTs=s1600-v0",
                 "title": "Android Application For Waste Management for The Aviation Community in Barangay 183 Villamor, Pasay City",
                 "techstack": "Java, mySQL, Firebase, XML, Tensorflow, Google Teachable Machine",
                 "githublink": "https://github.com/philsca-portal/E-KOLEKTA-APP.git",
                 "demolink": ""
             },
             {
-                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTNlnvNSUqBjnaRqY2Q53U1Yac2mWuQiMOqAw-7Q9QrYVqh4ayCX4dmbA7wn8s7O_p8geJjz6QjMubgMfz3ZZyXYg9o8A=s1600",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaLnaT6pA84FNPg4QleB5rwq3KoUuczZACBmOum5zIPO7FQrLhOMfSwxLKMRkrg9BmKazc2OJs6SKgAfUuX6ho5DXpoSx7kIgA=s1600-v0",
                 "title": "JJRGB Delivery Services is an information management and booking system for JJRGB Delivery Services with consumer and administrative perspective",
                 "techstack": "PHP, mySQL, HTML, CSS, and JavaScript",
                 "githublink": "https://github.com/philsca-portal/Delivery-service-web.git",
@@ -36,14 +36,14 @@ const Carousel = () => {
                 "demolink": "https://delivery-service-web.000webhostapp.com/"
             },
             {
-                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSLLn3BJKChAL0olE5pOmNrFQSTrOVY9g7cGA70Rn3gfjrr4z6F1VA3qV1c4yNC6TX0vj1UNjk_gzCSMo_DT2Yk62pg=s1600",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ_tbPUFeHvqQE19kzFT2erFbsjebN9Pr878Dl41nWcLq-Np4W9grgyvK5GVdLpTTnQouJfyJQkj1QtVGzQ4TL6o_xoe5IMOg=s1600-v0",
                 "title": "WeatherAPI.com + Next.js: Your Ultimate Weather Resource",
                 "techstack": "Next.js (TypeScript), Weather API",
                 "githublink": "https://github.com/philsca-portal/Weather-web.git",
                 "demolink": "https://weather-web-seven-hazel.vercel.app"
             },
             {
-                "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQaCLSsMP13x5X0QWDWk6T5G10jheOVQHLbBupOB5n1zAIcfH6B4o7kk2P7zYr_VzndWFoib6Daha_nHZIRa_KdgCVN=s1600",
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaulM6qMbpbXX8iIoeFwBqrwIprGQN8mfpq76XAXpsvoasXtk3ypE4WEGk6UkDT8P749S9AQC4iBSfHkkC0F0cpD8mDpYBD-g=s1600-v0",
                 "title": "Basic CRUD application built with Next.js with Authentication.",
                 "techstack": "Next.js (TypeScript), MySQL(PlanetScale), Shadcn UI, and Clerk(Authentication).",
                 "githublink": "https://github.com/philsca-portal/next13-CRUD.git",
