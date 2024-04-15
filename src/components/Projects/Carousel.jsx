@@ -55,7 +55,13 @@ const Carousel = () => {
                 "techstack": "Next.js , Tailwind css, Spline, Shadcn UI.",
                 "githublink": "https://github.com/philsca-portal/server-hunter.git",
                 "demolink": "https://server-hunter.vercel.app/"
-            }         
+            },
+            {
+                "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZAj8x_B2DSvsgXdmCxPOu-IVniLQafMtRj8ng0LtgNjYJazp0eeYq_4FmcDu-Yk8XvPJkl3WBXmQ3A2bZjlCRpAzG-0IorDnc=s1600-v0",
+                "title": "Kolab: A task-managment project.",
+                "techstack": "Next.js , Tailwind css, Spline, Shadcn UI, Express.js, Socket.io, Prisma etc.",
+                "demolink": "https://kolab-front-end.vercel.app/"
+            }  
         ]
     }
 
