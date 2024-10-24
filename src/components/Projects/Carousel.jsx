@@ -12,7 +12,7 @@ const Carousel = () => {
                 "title": "WeatherAPI.com + Next.js: Your Ultimate Weather Resource",
                 "techstack": "Next.js (TypeScript), Weather API",
                 "githublink": "https://github.com/philsca-portal/Weather-web.git",
-                "demolink": "https://weather-web-rho.vercel.app"
+                "demolink": "https://weather-web-seven-hazel.vercel.app"
             },
             {
                 "src": "https://firebasestorage.googleapis.com/v0/b/kolab-d9acc.appspot.com/o/SERVER%20HUNTER.png?alt=media&token=6f868401-12be-48fe-b04b-c3eab84e650d",
